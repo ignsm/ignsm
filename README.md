@@ -28,7 +28,7 @@ Product designer and builder.
         <li>Android, iPhone and Mac apps, browser extensions, a web app, the API and an MCP server</li>
         <li>I design, build and run all of it. The source is private for now</li>
       </ul>
-      <a href="https://monmot.com">Website</a> · <a href="https://chromewebstore.google.com/detail/monmot/aldcopkclldafobcmdddijejmjaoeolh">Chrome extension</a> · Mobile apps will be published soon
+      <a href="https://monmot.com">Website</a> · <a href="https://chromewebstore.google.com/detail/monmot/aldcopkclldafobcmdddijejmjaoeolh">Chrome extension</a> · <a href="https://apps.apple.com/us/app/monmot/id6796633976">iOS app</a> · Android coming soon
     </td>
   </tr>
   <tr>
