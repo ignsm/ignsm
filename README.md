@@ -2,8 +2,6 @@
 
 Product designer and builder.
 
-[X](https://x.com/ignat_en) · [Email](mailto:ignsm94@gmail.com)
-
 <table>
   <tr>
     <td width="88" valign="top"><a href="https://formhaus.dev"><img src="https://raw.githubusercontent.com/ignsm/ignsm/main/assets/formhaus.png" width="64" height="64" alt="Formhaus logo"></a></td>
